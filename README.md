@@ -5,7 +5,7 @@ A python program that generates programming quotes and jokes.
 initiateur: Erwan Maréchal
 collaborateur 1: Vincent Lebel
 collaborateur 2: Jules Dupont
-collaborateur 3: Erwan Maréchal
+collaborateur 3: Numa Brocande
 
 ##URL
 contributeur 1: https://github.com/VinzODL/quote-lebel-1
