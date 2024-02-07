@@ -12,9 +12,7 @@ def main():
     while True:
         quotes = load_quotes("quotes.txt")
         menu()
-
         choice = input(">> ")
-
         if choice == "random":
             print_quote(random_quote(quotes))
         elif choice == "display":
