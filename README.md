@@ -1,13 +1,15 @@
-# quote-marechal-1
+te# Programming Quote Generator
+
 A python program that generates programming quotes and jokes.
 
-##Contributors
-initiateur: Erwan Maréchal
-collaborateur 1: Vincent Lebel
-collaborateur 2: Jules Dupont
-collaborateur 3: Numa Brocande
+## Contributors
+- `initiator`: Erwan Marechal
+- `contributor-1`: Vincent Lebel
+- `contributor-2`: Jules Dupont
+- `contributor-3`: Numa Brocandel
 
-##URL
-contributeur 1: https://github.com/VinzODL/quote-lebel-1
-contributeur 2: https://github.com/julesdpo/quote-jules-1.git
-contributeur 3: https://github.com/Erwan1202Leplusbeau/quote-marechal-1
+## Fork urls
+- `contributor-1`: https://github.com/VinzODL/quote-lebel-1
+- `contributor-2`: https://github.com/julesdpo/quote-jules-1.git
+- `contributor-3`: https://github.com/Erwan1202Leplusbeau/quote-marechal-1
+
